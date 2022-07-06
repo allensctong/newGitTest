@@ -2,5 +2,6 @@
 
 Command line tutorial
 
-## Subheader
+## Author
 
+Allen Tong
