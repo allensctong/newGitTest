@@ -4,4 +4,4 @@ Command line tutorial
 
 ## Author
 
-Allen Tong
+Allen Tong 7/6
